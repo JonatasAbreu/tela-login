@@ -1,2 +1,2 @@
 # tela-login
- Treinadno html e css
+ Treinando html e css
